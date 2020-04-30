@@ -1,0 +1,410 @@
+restaurant name,feature
+Aura Always Veg,Delivery
+Aura Always Veg,Seating
+Aura Always Veg,Digital Payments
+Aura Always Veg,Takeout
+Aura Always Veg,Table Service
+Green Channel,Seating
+Green Channel,Takeout
+Gossip The Cafe Bar,Seating
+Gossip The Cafe Bar,Takeout
+The Boston Butt,Reservations
+The Boston Butt,Seating
+The Boston Butt,Table Service
+Lotus Leaf,Reservations
+Lotus Leaf,Seating
+Lotus Leaf,Digital Payments
+Andheri West,Seating
+Andheri West,Reservations
+Andheri West,Table Service
+Timess Square,Delivery
+Timess Square,Seating
+Timess Square,Digital Payments
+Timess Square,Takeout
+Timess Square,Table Service
+Picasso,Delivery
+Picasso,Seating
+Picasso,Digital Payments
+Picasso,Takeout
+Picasso,Table Service
+Hungry Jd's,Table Service
+Hungry Jd's, Reservations
+Hungry Jd's, Seating
+Pizza Express,Delivery
+Pizza Express,Seating
+Pizza Express,Digital Payments
+Pizza Express,Takeout
+Pizza Express,Table Service
+Britannia & Company Restaurant,Delivery
+Britannia & Company Restaurant,Seating
+Britannia & Company Restaurant,Takeou
+Britannia & Company Restaurant,Highchairs Available
+Britannia & Company Restaurant,Serves Alcohol
+Kala Ghoda Cafe,Seating
+Kala Ghoda Cafe,Free Wifi
+Kala Ghoda Cafe,Digital Payments
+Kala Ghoda Cafe,Takeout
+Kala Ghoda Cafe,Table Service
+Chetana,Reservations
+Chetana,Parking Available
+Chetana,Seating
+Chetana,Digital Payments
+Chetana,Takeout
+Chetana,Table Service
+Punjab Grill,Reservations
+Punjab Grill,Wheelchair Accessible
+Punjab Grill,Serves Alcohol
+Punjab Grill,Delivery
+Punjab Grill,Seating
+Punjab Grill,Digital Payments
+Punjab Grill,Takeout
+Punjab Grill,Table Service
+The Pantry Cafe,Delivery
+The Pantry Cafe,Seating
+The Pantry Cafe,Digital Payments
+The Pantry Cafe,Takeout
+The Pantry Cafe,Table Service
+The Pantry Cafe,Wheelchair Accessible
+The Pantry Cafe,Free Wifi
+The Pantry Cafe,
+Mamagoto,Takeout
+Mamagoto,Reservations
+Mamagoto,Seating
+Mamagoto,Table Service
+Mamagoto,Parking Available
+Mamagoto,Wheelchair Accessible
+Mamagoto,Serves Alcohol
+Mamagoto,Full Bar
+Mamagoto, Valet Parking
+Fountain Inn,Delivery
+Fountain Inn,Seating
+Fountain Inn,Digital Payments
+Fountain Inn,Takeout
+Fountain Inn,Table Service
+Tasse de The,Free Wifi
+Tasse de The,Private Dining
+Tasse de The, Reservations
+Tasse de The,Digital Payments
+Tasse de The,Takeout
+Tasse de The,Table Service
+The Clearing House,Reservations
+The Clearing House,Seating
+The Clearing House,Serves Alcohol
+The Clearing House,Table Service
+Pizza express,Delivery
+Pizza express,Seating
+Pizza express,Digital Payments
+Pizza express,Takeout
+Pizza express,Table Service
+Hotel Fountain Plaza Restaurant,Seating
+Hotel Fountain Plaza Restaurant,Takeout
+Hotel Fountain Plaza Restaurant,Table Service
+olympia,Seating
+olympia,Takeout
+olympia,Table Service
+House of Tipsy,Reservations
+House of Tipsy,Seating
+House of Tipsy,Table Service
+Copper Chimney,Reservations
+Copper Chimney,Seating
+Copper Chimney,Parking Available
+Copper Chimney,Serves Alcohol
+Copper Chimney,Buffet
+Copper Chimney,Delivery
+Copper Chimney,Table Service
+Pandora's Box,Delivery
+Pandora's Box,Seating
+Pandora's Box,Takeout
+Pratap Lunch Home,Reservations
+Pratap Lunch Home,Delivery
+Pratap Lunch Home,Seating
+Pratap Lunch Home,Serves Alcohol
+Pratap Lunch Home,Takeout
+Pratap Lunch Home,Table Service
+Mocambo Cafe,Serves Alcohol
+Mocambo Cafe,Wheelchair Accessible
+Mocambo Cafe,Reservations
+Mocambo Cafe,Seating
+Mocambo Cafe,Takeout
+Mocambo Cafe,Table Service
+The Irish House Kala Ghoda,Delivery
+The Irish House Kala Ghoda,Seating
+The Irish House Kala Ghoda,Digital Payments
+The Irish House Kala Ghoda,Takeout
+The Irish House Kala Ghoda,Table Service
+Ling's Pavilion,Takeout
+Ling's Pavilion, Reservations
+Ling's Pavilion, Seating
+Ling's Pavilion, Serves Alcohol
+Ling's Pavilion, Full Bar
+Ling's Pavilion, Table Service
+Ling's Pavilion, Delivery
+Rue Du Liban,Reservations
+Rue Du Liban, Seating
+Rue Du Liban, Accepts Credit Cards
+Rue Du Liban, Table Service
+Rue Du Liban, Takeout
+Mamagoto,Reservations
+Mamagoto, Seating
+Mamagoto, Accepts Credit Cards
+Mamagoto, Table Service
+Mamagoto, Takeout
+McDonalds Family Restaurant,Takeout
+McDonalds Family Restaurant, Delivery
+McDonalds Family Restaurant, Seating
+Ideal Corner,Takeout
+Ideal Corner, Seating
+Ideal Corner, Table Service
+Poetry by Love and Cheesecake,Reservations
+Poetry by Love and Cheesecake, Seating
+Poetry by Love and Cheesecake, Table Service
+Effingut,Reservations
+Effingut, Seating
+Effingut, Serves Alcohol
+Effingut, Table Service
+Millennials Eatery & Bar,Seating
+Millennials Eatery & Bar, Accepts Credit Cards
+Millennials Eatery & Bar, Table Service
+Millennials Eatery & Bar, Reservations
+Baskin-Robbins,Takeout
+AKA Bistro,Seating
+AKA Bistro, Reservations
+AKA Bistro, Table Service
+Plenty,Seating
+Plenty, Takeout
+Plenty, Table Service
+Bademiya Restaurant,Delivery
+Bademiya Restaurant, Takeout
+Bademiya Restaurant, Seating
+Bademiya Restaurant, Table Service
+Fountain Sizzlers,Reservations
+Fountain Sizzlers, Seating
+Fountain Sizzlers, Table Service
+Fountain Sizzlers,Reservations
+Fountain Sizzlers, Seating
+Fountain Sizzlers, Table Service
+5 Spice,Delivery
+5 Spice, Takeout
+5 Spice, Seating
+5 Spice, Reservations
+5 Spice, Table Service
+Harish Lunch Home,Takeout
+Harish Lunch Home, Delivery
+Harish Lunch Home, Seating
+Harish Lunch Home, Table Service
+The Boston Butt Fort,Reservations
+The Boston Butt Fort, Seating
+The Boston Butt Fort, Serves Alcohol
+The Boston Butt Fort, Table Service
+The Boston Butt Fort, Live Music
+Kandeel,Seating
+Kandeel, Reservations
+Kandeel, Serves Alcohol
+Kandeel, Table Service
+Soi Kitchen,Takeout
+Soi Kitchen, Seating
+Soi Kitchen, Delivery
+Soi Kitchen, Reservations
+Soi Kitchen, Table Service
+Taste of Malabar,Seating
+Taste of Malabar, Table Service
+Savoury Restaurant,Takeout
+Savoury Restaurant, Parking Available
+Savoury Restaurant, Street Parking
+Savoury Restaurant, Validated Parking
+Savoury Restaurant, Valet Parking
+Savoury Restaurant, Free Off-Street Parking
+Savoury Restaurant, Television
+Savoury Restaurant, Accepts Mastercard
+Savoury Restaurant, Accepts Visa
+Savoury Restaurant, Digital Payments
+Savoury Restaurant, Free Wifi
+Savoury Restaurant, Delivery
+Savoury Restaurant, Reservations
+Savoury Restaurant, Seating
+Savoury Restaurant, Table Service
+Hazuka,Reservations
+Hazuka, Seating
+Hazuka, Table Service
+Say Cheese,Reservations
+The Bar Terminal,Seating
+The Bar Terminal, Delivery
+The Bar Terminal, Takeout
+The Bar Terminal, Reservations
+The Bar Terminal, Street Parking
+The Bar Terminal, Validated Parking
+The Bar Terminal, Free Off-Street Parking
+The Bar Terminal, Television
+The Bar Terminal, Highchairs Available
+The Bar Terminal, Serves Alcohol
+The Bar Terminal, Full Bar
+The Bar Terminal, Wine and Beer
+The Bar Terminal, Digital Payments
+The Bar Terminal, Free Wifi
+The Bar Terminal, Accepts Credit Cards
+The Bar Terminal, Table Service
+Spices & Flavours,Reservations
+Spices & Flavours, Wheelchair Accessible
+Spices & Flavours, Seating
+Spices & Flavours, Parking Available
+Spices & Flavours, Street Parking
+Spices & Flavours, Television
+Spices & Flavours, Full Bar
+Spices & Flavours, Accepts American Express
+Spices & Flavours, Accepts Mastercard
+Spices & Flavours, Accepts Visa
+Spices & Flavours, Cash Only
+Spices & Flavours, Free Wifi
+Spices & Flavours, Delivery
+Spices & Flavours, Takeout
+Spices & Flavours, Free Off-Street Parking
+Spices & Flavours, Highchairs Available
+Spices & Flavours, Serves Alcohol
+Spices & Flavours, Wine and Beer
+Spices & Flavours, Digital Payments
+Spices & Flavours, Accepts Credit Cards
+Spices & Flavours, Table Service
+Apoorva,Takeout
+Apoorva, Reservations
+Apoorva, Seating
+Apoorva, Serves Alcohol
+Apoorva, Full Bar
+Apoorva, Delivery
+Apoorva, Table Service
+Costa Coffee,Takeout
+99 Pancakes,Takeout
+Food For Thought,Takeout
+Food For Thought, Seating
+Food For Thought, Table Service
+The Ghetto Restaurant,Lunch
+The Ghetto Restaurant, Dinner
+The Ghetto Restaurant, Drinks
+Cafe Moshe's,Seating
+Cafe Moshe's, Delivery
+Cafe Moshe's, Takeout
+Cafe Moshe's, Reservations
+Cafe Moshe's, Table Service
+Vicinia,Delivery
+Vicinia,Seating
+Vicinia,Digital Payments
+Vicinia,Takeout
+Vicinia,Table Service
+Ministry of salads,Reservations
+Ministry of salads, Seating
+Ministry of salads, Serves Alcohol
+Ministry of salads, Table Service
+Chicken Centre,Delivery
+Chicken Centre,Seating
+Chicken Centre,Digital Payments
+Chicken Centre,Takeout
+Chicken Centre,Table Service
+Francesco's Pizzeria,Delivery
+Francesco's Pizzeria,Seating
+Francesco's Pizzeria,Digital Payments
+Francesco's Pizzeria,Takeout
+Francesco's Pizzeria,Table Service
+Bombay Blues Restaurant,Delivery
+Bombay Blues Restaurant,Seating
+Bombay Blues Restaurant,Digital Payments
+Bombay Blues Restaurant,Takeout
+Bombay Blues Restaurant,Table Service
+Sushi & More,Delivery
+Sushi & More,Seating
+Sushi & More,Digital Payments
+Sushi & More,Takeout
+Sushi & More,Table Service
+Chcolateria San Churro,Delivery
+Chcolateria San Churro,Seating
+Chcolateria San Churro,Digital Payments
+Chcolateria San Churro,Takeout
+Chcolateria San Churro,Table Service
+The 29,Delivery
+The 29,Seating
+The 29,Digital Payments
+The 29,Takeout
+The 29,Table Service
+Right Place,Delivery
+Right Place,Seating
+Right Place,Digital Payments
+Right Place,Takeout
+Right Place,Table Service
+Shobha,Delivery
+Shobha,Seating
+Shobha,Digital Payments
+Shobha,Takeout
+Shobha,Table Service
+Thambi Veg Restaurant,Delivery
+Thambi Veg Restaurant,Seating
+Thambi Veg Restaurant,Digital Payments
+Thambi Veg Restaurant,Takeout
+Thambi Veg Restaurant,Table Service
+The Lush,Delivery
+The Lush,Seating
+The Lush,Digital Payments
+The Lush,Takeout
+The Lush,Table Service
+MRP,Delivery
+MRP,Seating
+MRP,Digital Payments
+MRP,Takeout
+MRP,Table Service
+Cafe Coffee Day,Delivery
+Cafe Coffee Day,Seating
+Cafe Coffee Day,Digital Payments
+Cafe Coffee Day,Takeout
+Cafe Coffee Day,Table Service
+Jyoti Veg Diet,Delivery
+Jyoti Veg Diet,Seating
+Jyoti Veg Diet,Digital Payments
+Jyoti Veg Diet,Takeout
+Jyoti Veg Diet,Table Service
+DP's Fast Food,Delivery
+DP's Fast Food,Seating
+DP's Fast Food,Digital Payments
+DP's Fast Food,Takeout
+DP's Fast Food,Table Service
+Sharda Bhavan,Delivery
+Sharda Bhavan,Seating
+Sharda Bhavan,Digital Payments
+Sharda Bhavan,Takeout
+Sharda Bhavan,Table Service
+Cafe Coffee Day,Delivery
+Cafe Coffee Day,Seating
+Cafe Coffee Day,Digital Payments
+Cafe Coffee Day,Takeout
+Cafe Coffee Day,Table Service
+Hotel Rishi Restaurant,Delivery
+Hotel Rishi Restaurant,Seating
+Hotel Rishi Restaurant,Digital Payments
+Hotel Rishi Restaurant,Takeout
+Hotel Rishi Restaurant,Table Service
+Pankaj Juice Centre,Delivery
+Pankaj Juice Centre,Seating
+Pankaj Juice Centre,Digital Payments
+Pankaj Juice Centre,Takeout
+Pankaj Juice Centre,Table Service
+Grandmama's Cafe,Delivery
+Grandmama's Cafe,Seating
+Grandmama's Cafe,Digital Payments
+Grandmama's Cafe,Takeout
+Grandmama's Cafe,Table Service
+The Boston Butt,Delivery
+The Boston Butt,Seating
+The Boston Butt,Digital Payments
+The Boston Butt,Takeout
+The Boston Butt,Table Service
+Kailash Mandir Lassi and Sweets,Delivery
+Kailash Mandir Lassi and Sweets,Seating
+Kailash Mandir Lassi and Sweets,Digital Payments
+Kailash Mandir Lassi and Sweets,Takeout
+Kailash Mandir Lassi and Sweets,Table Service
+Pritam Da Dhaba,Delivery
+Pritam Da Dhaba,Seating
+Pritam Da Dhaba,Digital Payments
+Pritam Da Dhaba,Takeout
+Pritam Da Dhaba,Table Service
+Cafe Gulshan,Delivery
+Cafe Gulshan,Seating
+Cafe Gulshan,Digital Payments
+Cafe Gulshan,Takeout
+Cafe Gulshan,Table Service

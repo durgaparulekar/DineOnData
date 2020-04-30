@@ -1,0 +1,40 @@
+<form method="post" action="//submit.form" onSubmit="return validateForm();">
+<div style="width: 400px;">
+
+
+<div style="padding-bottom: 18px;">How Would You Rate Our Website<span style="color: red;"> *</span><br/>
+<select id="data_4" name="data_4" style="width : 150px;" class="form-control"><option>1</option>
+<option>2</option>
+<option>3</option>
+<option>4</option>
+<option>5</option>
+</select>
+</div>
+
+
+<div style="padding-bottom: 18px;">Review<span style="color: red;"> *</span><br/>
+<textarea id="data_8" false name="data_8" style="width : 450px;" rows="9" class="form-control"></textarea>
+</div>
+<div style="padding-bottom: 18px;">Were you satisfied with our output<br/>
+<span><input type="radio" id="data_9_0" name="data_9" value="Yes"/> Yes</span><br/>
+<span><input type="radio" id="data_9_1" name="data_9" value="No"/> No</span><br/>
+</div>
+<div style="padding-bottom: 18px;"><input name="skip_Submit" value="Submit" type="submit" onclick="WriteToFile(this.form)"/></div>
+<div>
+</div>
+</form>
+
+<script language="javascript">
+    function WriteToFile(passForm) {
+      var fso = new ActiveXObject("Scripting.FileSystemObject");
+      var fileLoc = "C:\\Users\\admin\\Desktop\\mumbai\\rating1.csv";
+      var file = fso.CreateTextFile(fileLoc, true);
+      file.writeline(passForm.data_9_0.value + ',' +
+                     passForm.data_9_1.value)+ ',' +
+					 passForm.data_4.value);
+      file.Close();
+      alert('File created successfully at location: ' + fileLoc);
+     }
+  </script>
+
+ 
